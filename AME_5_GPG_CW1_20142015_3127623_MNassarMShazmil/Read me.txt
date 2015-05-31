@@ -1,0 +1,8 @@
+All weekly project in Weekly Folder And named has week 1 to 11
+
+Week-10 War on border works with Aim with mouse and shoot with spaces
+
+Week-6 Click in the Tick and avoid the witch catching the ghost
+moving the mouse.
+
+Week-2 Click on the sprites

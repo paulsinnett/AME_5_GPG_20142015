@@ -1,0 +1,31 @@
+READ ME
+
+AME_5_CPG_CW1_20132014_3121111_VoickeGeorge
+
+Week 1 - 	http://scratch.mit.edu/projects/27215045/
+Week 2 - 	http://scratch.mit.edu/projects/27937264/
+Week 3 - 	http://scratch.mit.edu/projects/38721960/
+Week 4 -	http://scratch.mit.edu/projects/38689270/
+Week 5 -	http://scratch.mit.edu/projects/31632270/
+Week 6 - 	http://scratch.mit.edu/projects/37123466/
+Week 7 - 	http://scratch.mit.edu/projects/38590208/
+Week 8 - 	http://scratch.mit.edu/projects/33690856/
+Week 9 - 	http://scratch.mit.edu/projects/36980406/
+Week 10 - 	http://scratch.mit.edu/projects/38726354/
+Week 11 - 	http://scratch.mit.edu/projects/38587304/	
+LIFT - Week 12	http://scratch.mit.edu/projects/38752264/ 		 
+
+Week 1 - Bad Scratch Game.sb2
+Week 2 - Self Test Program.sb2
+Week 3 - Name GEORGE.sb2
+Week 4 - Robot Arms.sb2
+Week 5 - Hexadecimal Remix.sb2
+Week 6 - Halloween Game.sb2
+Week 7 - Robot Drawing.sb2
+Week 8 - Envelope Circle.sb2
+Week 9 - Philae Lander.sb2
+Week 10 - Shooting Range.sb2
+Week 11 - Random Song List (Disturbed - Asylum).sb2
+LIFT - Week 12.sb2
+Weekly Log.xlsx
+READ ME FILE

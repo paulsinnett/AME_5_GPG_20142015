@@ -1,0 +1,9 @@
+Read Me
+
+The disc includes:
+
+A excel doc. containing weekly logs
+
+Weeks 1-12 Scratch exercises as .sb2 files
+
+ 

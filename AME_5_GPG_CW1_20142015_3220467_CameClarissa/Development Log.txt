@@ -1,0 +1,43 @@
+Date
+Start
+Stop
+Interruptions
+Total
+Comments
+08/12/14
+14:00:00
+14:10:00
+
+10 minutes
+Week 7 
+08/12/14
+15:00:00
+15:30:00
+
+30 minutes
+Week 8
+09/12/14
+13:00:00
+13:42:00
+
+42 minutes
+Week 9
+09/12/14
+13:42:00
+15:50:00
+Lunch
+92 minutes
+Week 10
+09/12/14
+18:00:00
+18:50:00
+
+50 minutes
+Week 11
+11/12/14
+16:00:00
+17:15:00
+
+75 minutes
+Week 12
+

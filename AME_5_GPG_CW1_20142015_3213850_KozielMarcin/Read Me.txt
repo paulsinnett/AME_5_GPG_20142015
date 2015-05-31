@@ -1,0 +1,8 @@
+The contents of the files:
+
+Elevator AI project Folder - The AI elevator which goes to requested floors 
+
+Time Log - a simple log which lets you know when and how long it took me to complete each task from week 7 up
+
+Weekly Exercise Folder - 12 files with weekly tasks
+
