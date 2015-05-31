@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyAttack.cs">
+    <Files>
+      <File FileName="Assets/JupiterOrbit.cs" Line="15" Column="44" />
+      <File FileName="Assets/menu.cs" Line="11" Column="46" />
+      <File FileName="Assets/EnemyAttack.cs" Line="44" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
