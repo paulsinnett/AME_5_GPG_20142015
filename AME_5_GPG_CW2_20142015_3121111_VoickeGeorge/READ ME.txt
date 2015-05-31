@@ -1,0 +1,14 @@
+Disc Contains:
+
+Final Project / Collect The Coins.exe : Click to direct chacracter and collect coins whilst avoiding enemies in the quickest time.
+
+Week 1 - Move Blocks 			- Different ways to move blocks (Animation / Gravity etc).
+Week 2 - Orrey Planets			- Planets orbiting a sun.
+Week 3 - Time Sheep Game		- Click to increase number of sheep.
+Week 4 - Information Hiding		- Move character to heal and take damage from a monster.
+Week 5 - Searching and Sorted		- Sort a race alphabeticallyor by score.
+Week 6 - Asynchronous Programming	- Run a script after another script has been completed.
+Week 7 - Shader Coding 			- Make an object change colour with a script.
+
+Development Log
+READ ME file
