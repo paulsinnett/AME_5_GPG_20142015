@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Health.cs">
+    <Files>
+      <File FileName="Assets\Player.cs" Line="5" Column="2" />
+      <File FileName="Assets\Monster.cs" Line="5" Column="2" />
+      <File FileName="Assets\HealthBar.cs" Line="6" Column="67" />
+      <File FileName="Assets\Health.cs" Line="5" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

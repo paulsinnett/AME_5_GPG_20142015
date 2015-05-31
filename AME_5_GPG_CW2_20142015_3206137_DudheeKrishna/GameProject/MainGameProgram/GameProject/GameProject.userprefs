@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\UnityWeekProgram\OwnWeeklyProgram\WeeklyPrograms\Rouge\Assets\Health.cs">
+    <Files>
+      <File FileName="..\..\UnityWeekProgram\OwnWeeklyProgram\WeeklyPrograms\Rouge\Assets\Player.cs" Line="5" Column="2" />
+      <File FileName="..\..\UnityWeekProgram\OwnWeeklyProgram\WeeklyPrograms\Rouge\Assets\Monster.cs" Line="5" Column="2" />
+      <File FileName="..\..\UnityWeekProgram\OwnWeeklyProgram\WeeklyPrograms\Rouge\Assets\HealthBar.cs" Line="6" Column="67" />
+      <File FileName="..\..\UnityWeekProgram\OwnWeeklyProgram\WeeklyPrograms\Rouge\Assets\Health.cs" Line="5" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
