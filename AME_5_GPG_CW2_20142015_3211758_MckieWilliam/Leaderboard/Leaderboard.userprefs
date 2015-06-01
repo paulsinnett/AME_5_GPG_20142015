@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Ouerry\Ouerry\Assets\Orrery.cs">
+    <Files>
+      <File FileName="..\Ouerry\Ouerry\Assets\Orrery.cs" Line="3" Column="39" />
+      <File FileName="..\Ouerry\Ouerry\Assets\Orrery2.cs" Line="3" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
