@@ -1,0 +1,7 @@
+Read Me
+
+This Disc contains:
+
+A folder called Weekly Exercises containing the 7 Exercises
+
+A folder called mini game including the final game in exe. format and editable level.
