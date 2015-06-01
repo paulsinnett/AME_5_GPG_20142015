@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TargetMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ShellColliderCheck.cs" Line="6" Column="20" />
+      <File FileName="Assets\Scripts\receivebroadcast.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\ShellShoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TargetMove.cs" Line="7" Column="31" />
+      <File FileName="Assets\Scripts\TargetSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Death.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\alter_myShader.cs" Line="6" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
