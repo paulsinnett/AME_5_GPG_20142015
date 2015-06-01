@@ -1,0 +1,27 @@
+using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+
+public class Counter : MonoBehaviour {
+
+	Texture counter;
+	int count = 0;
+
+	// Use this for initialization
+	void Start () {
+	
+		counter = GetComponent <Text> ();
+		counter.color = Color.white;
+	}
+
+	public void AddOneSheep()
+	{
+		count++;
+	}
+
+	// Update is called once per frame
+	void Update () {
+
+		counter.text = count.ToString ();
+	}
+}
