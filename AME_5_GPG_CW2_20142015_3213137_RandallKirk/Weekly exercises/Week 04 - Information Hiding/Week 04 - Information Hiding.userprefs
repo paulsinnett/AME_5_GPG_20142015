@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HealthBar.cs">
+    <Files>
+      <File FileName="..\Game Programming Game project\Assets\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyCubes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CustomPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GainHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthBar.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
