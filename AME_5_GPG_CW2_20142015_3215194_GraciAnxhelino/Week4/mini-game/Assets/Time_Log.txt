@@ -1,0 +1,19 @@
+Time taken
+
+Gold: 34 mins
+
+GoldText: 15 mins
+
+Health: 33 mins
+
+Healthbar: 27 mins
+
+Healthpts: 21 mins
+
+Monster: 29 mins
+
+Player: 1 Hour 9 mins
+
+ShaderColChange: 46 mins
+
+Timer: 10 mins

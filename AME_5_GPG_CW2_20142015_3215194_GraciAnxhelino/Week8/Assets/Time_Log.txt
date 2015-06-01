@@ -1,0 +1,5 @@
+Time taken
+
+AI: 41 mins
+
+Pathfinding: 1 Hour
